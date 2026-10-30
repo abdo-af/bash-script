@@ -1,0 +1,8 @@
+Linux
+Docker
+Kubernetes
+Linux
+Git
+Docker
+Bash
+Linux

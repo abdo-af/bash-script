@@ -1,0 +1,6 @@
+2026-08-26 10:00 INFO Service started
+2026-08-26 10:05 ERROR Disk full
+42 items processed
+WARNING low memory
+2026-08-26 10:09 ERROR Timeout
+7 retries
